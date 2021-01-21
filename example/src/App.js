@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'corum-button'
+import { CorumButton } from 'corum-button'
 import 'corum-button/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <CorumButton text="Create Corum Library Button 😄" />
 }
 
 export default App
