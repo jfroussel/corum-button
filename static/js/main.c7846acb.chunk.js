@@ -1,0 +1,2 @@
+(this["webpackJsonpcorum-button-example"]=this["webpackJsonpcorum-button-example"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},function(e,t,n){},,,,,function(e,t,n){},function(e,t,n){"use strict";n.r(t);n(4);var r=n(0),a=n.n(r),o=n(2),u=n.n(o),c="_3ybTi",s=function(e){var t=e.text;return a.a.createElement("div",{className:c},"Message: ",t)};n(9);var i=()=>a.a.createElement(s,{text:"Create Corum Library Button \ud83d\ude04"});u.a.render(a.a.createElement(i,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.c7846acb.chunk.js.map
